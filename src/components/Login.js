@@ -41,21 +41,9 @@ const Login = () => {
                                     <Link  to={'/portal'} className="btn btn-primary btn-user btn-block">
                                         Login
                                     </Link>
-                                    <hr/>
-                                    <a href="#!" className="btn btn-google btn-user btn-block">
-                                        <i className="fab fa-google fa-fw"></i> Login with Google
-                                    </a>
-                                    <a href="#!" className="btn btn-facebook btn-user btn-block">
-                                        <i className="fab fa-facebook-f fa-fw"></i> Login with Facebook
-                                    </a>
+                                    
                                 </form>
-                                <hr/>
-                                <div className="text-center">
-                                    <a className="small" href="#!">Forgot Password?</a>
-                                </div>
-                                <div className="text-center">
-                                    <a className="small" href="#!">Create an Account!</a>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
